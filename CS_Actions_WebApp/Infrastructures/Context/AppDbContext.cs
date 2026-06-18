@@ -1,6 +1,7 @@
-using Microsoft.EntityFrameworkCore;
-using CS_Actions_WebApp.Models;
 using CS_Actions_WebApp.Infrastructures.Entity;
+using CS_Actions_WebApp.Models;
+
+using Microsoft.EntityFrameworkCore;
 
 namespace CS_Actions_WebApp.Infrastructures.Context;
 /// <summary>
